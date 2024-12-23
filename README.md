@@ -12,6 +12,8 @@ Faster R-CNN 모델 구조와 ResNet backbone을 사용하며, Pascal VOC 데이
   + Nvidia docker
  
 ## 도커 컨데이너 및 데이터셋 준비
++ Docker Image tar File 받기\
+  https://drive.google.com/file/d/1_AB-jfFZrWaKapZ6YJVECombbGnMsKKG/view?usp=sharing
 + Docker tar File -> Docker Image\
   ```docker load -i defeat.tar```
 + Docker Image -> Docker Container\
